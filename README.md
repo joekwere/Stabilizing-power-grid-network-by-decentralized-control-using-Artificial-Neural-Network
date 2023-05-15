@@ -1,0 +1,2 @@
+# Stabilizing-power-grid-network-by-decentralized-control-using-Artificial-Neural-Network
+The objective of this study is to develop a classification model using Artificial Neural Network that can predict unstable power in the grid.  The grid produces both stable and unstable power. We want to be able to predict more of the unstable power which has tendencies to cause damage in other to prevent breakdown of the system.
